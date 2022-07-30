@@ -1,6 +1,6 @@
 
 <?php
-
+#payment page
 
 $db=mysqli_connect("localhost", "root", "", "shipping");
 
